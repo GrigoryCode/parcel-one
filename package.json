@@ -16,5 +16,8 @@
     "pug": "^2.0.3",
     "sass": "^1.18.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "node-sass": "^4.11.0",
+    "normalize.css": "^8.0.1"
+  }
 }
