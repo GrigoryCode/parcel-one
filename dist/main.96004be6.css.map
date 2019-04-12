@@ -1,0 +1,1 @@
+{"version":3,"sources":["source/components/1/1.scss","source/components/2/1.scss"],"names":[],"mappings":"AAAA;EACI;;ACDJ;EACI","file":"main.96004be6.css","sourceRoot":"..","sourcesContent":["h1 {\n    color: greenyellow;\n}","p {\n    color: teal;\n}"]}
