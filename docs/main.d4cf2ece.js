@@ -3,6 +3,6 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"lM2e":[function(require,module,exports) {
 console.log("Hello 1");
 },{}],"epB2":[function(require,module,exports) {
-"use strict";require("./components/1/1.scss"),require("./components/1/1"),require("./components/2/1.scss"),require("normalize.css");
-},{"./components/1/1.scss":"oCMy","./components/1/1":"lM2e","./components/2/1.scss":"oCMy","normalize.css":"oCMy"}]},{},["epB2"], null)
-//# sourceMappingURL=/main.2c9dd74a.js.map
+"use strict";require("./components/1/1.scss"),require("./components/2/1.scss"),require("./components/1/1"),require("normalize.css");
+},{"./components/1/1.scss":"oCMy","./components/2/1.scss":"oCMy","./components/1/1":"lM2e","normalize.css":"oCMy"}]},{},["epB2"], null)
+//# sourceMappingURL=main.d4cf2ece.js.map
