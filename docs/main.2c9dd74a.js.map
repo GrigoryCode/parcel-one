@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/1/1.js","main.js"],"names":["console","log"],"mappings":";;;AAAAA,QAAQC,IAAI;;ACGZ,aAHA,QAAA,yBACA,QAAA,oBACA,QAAA,yBACA,QAAA","file":"main.2c9dd74a.js","sourceRoot":"../src","sourcesContent":["console.log('Hello 1');","import './components/1/1.scss';\nimport './components/1/1';\nimport './components/2/1.scss';\nimport 'normalize.css';"]}
