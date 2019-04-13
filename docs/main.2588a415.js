@@ -5,4 +5,4 @@ console.log("Hello 1");
 },{}],"epB2":[function(require,module,exports) {
 "use strict";require("./components/1/1.scss"),require("./components/2/1.scss"),require("./components/1/1"),require("normalize.css");
 },{"./components/1/1.scss":"oCMy","./components/2/1.scss":"oCMy","./components/1/1":"lM2e","normalize.css":"oCMy"}]},{},["epB2"], null)
-//# sourceMappingURL=main.d4cf2ece.js.map
+//# sourceMappingURL=main.2588a415.js.map
